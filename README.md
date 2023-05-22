@@ -1,7 +1,7 @@
 [![MasterHead](https://i.pinimg.com/originals/b2/83/11/b2831136a1912c98b1cad1b4eb9ab112.gif)](https://www.facebook.com/minhnghia.tran.900/)
 <h1 align="center">Hi 👋, I'm Tran Minh Nghia</h1>
 <h3 align="center">A passionate frontend developer from VietNam</h3>
-<img align="right" alt="Coding" width="300" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/ef96e466739565.5b2080bc1dc35.gif">
+<!-- <img align="right" alt="Coding" width="300" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/ef96e466739565.5b2080bc1dc35.gif"> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nghiaotaku&label=Profile%20views&color=0e75b6&style=flat" alt="nghiaotaku" /> </p>
 
